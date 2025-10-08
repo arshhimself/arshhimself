@@ -45,13 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare Logo" width="40" height="40"/>
 </a></p>
 
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arshhimself&show_icons=true&locale=en&layout=compact&theme=dark" 
-    alt="arshhimself" 
-  />
-</p>
+
 
 <p>
   &nbsp;
