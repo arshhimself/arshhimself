@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rehbar Khan</h1>
 <h3 align="center">An accomplished builder from India, driven by a relentless pursuit of elegant code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshhimself&label=Profile%20views&color=0e75b6&style=flat" alt="arshhimself" /> </p>
+
+<!-- Master Head GIF -->
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW93aTk2bHozNDVlN255cnJuZTBtbHRtZXljMnN1ZTAwYmtoNzhneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" />
+
+-  **Frontend Developer** — Specialized in crafting beautiful, responsive, and performant UIs using **React**, **Next.js**, **Tailwind CSS**, and modern frontend architectures. Passionate about creating smooth user experiences and stunning web interfaces.
+
+-  **App Developer** — Building sleek, cross-platform mobile apps with **Flutter & Dart**. Focused on high-performance, clean UI design, and smooth animations.
+
+- **Backend & DevOps Engineer** — Skilled in **Django**, **Node.js**, **FastAPI**, **Next.js**, **Docker**, **Kubernetes**, **CI/CD**. Experienced in building scalable web, mobile, CRM, and ERP solutions.
+
+-  **GenAI Developer** — Working with **LangChain**, **LangFlow**, **LangGraph**, and **RAG** to create intelligent automation systems and AI-driven workflows.
+
+- 📫 **Reach out to me at:** [rehbarkhan.2711@gmail.com](mailto:rehbarkhan.2711@gmail.com)
 
 
 
-<p align="left"> <a href="https://twitter.com/rehbar2004" target="blank"><img src="https://img.shields.io/twitter/follow/rehbar2004?logo=twitter&style=for-the-badge" alt="rehbar2004" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,8 +45,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare Logo" width="40" height="40"/>
 </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshhimself&show_icons=true&locale=en&layout=compact" alt="arshhimself" /></p>
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=arshhimself&show_icons=true&locale=en&layout=compact&theme=dark" 
+    alt="arshhimself" 
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshhimself&show_icons=true&locale=en" alt="arshhimself" /></p>
-
-
+<p>
+  &nbsp;
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=arshhimself&show_icons=true&locale=en&theme=dark" 
+    alt="arshhimself" 
+  />
+</p>
