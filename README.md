@@ -9,9 +9,10 @@
 
 -  **App Developer** — Building sleek, cross-platform mobile apps with **Flutter & Dart**. Focused on high-performance, clean UI design, and smooth animations.
 
-- **Backend & DevOps Engineer** — Skilled in **Django**, **Node.js**, **FastAPI**, **Next.js**, **Docker**, **Kubernetes**, **CI/CD**. Experienced in building scalable web, mobile, CRM, and ERP solutions.
+- **Backend & DevOps Engineer** — Experienced in building **scalable web, mobile, CRM, and ERP solutions**. Skilled with **Django**, **Node.js**, **FastAPI**, **Next.js**, **Docker**, **Kubernetes**, and **CI/CD**.  
 
--  **GenAI Developer** — Working with **LangChain**, **LangFlow**, **LangGraph**, and **RAG** to create intelligent automation systems and AI-driven workflows.
+- **GenAI Developer** — Creating **AI-driven workflows and intelligent automation systems** using **LangChain**, **LangFlow**, **LangGraph**, and **RAG**.
+
 
 - 📫 **Reach out to me at:** [rehbarkhan.2711@gmail.com](mailto:rehbarkhan.2711@gmail.com)
 
