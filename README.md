@@ -11,7 +11,7 @@
 
 - **Backend & DevOps Engineer** — Experienced in building **scalable web, mobile, CRM, and ERP solutions**. Skilled with **Django**, **Node.js**, **FastAPI**, **Next.js**, **Docker**, **Kubernetes**, and **CI/CD**.  
 
-- **GenAI Developer** — Creating **AI-driven workflows and intelligent automation systems** using **LangChain**, **LangFlow**, **LangGraph**, and **RAG**.
+- **GenAI Developer** — Creating **AI-driven workflows, agents and intelligent automation systems** using **LangChain**, **LangFlow**, **LangGraph**, and **RAG**.
 
 
 - 📫 **Reach out to me at:** [rehbarkhan.2711@gmail.com](mailto:rehbarkhan.2711@gmail.com)
