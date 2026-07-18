@@ -39,13 +39,14 @@ ROLES = [
 
 NAME = "Suppp! I'm Rehbar Khan"
 
-CANVAS_W = 760
+CANVAS_W = 780
 CANVAS_H = 300
 
 NAME_Y = TITLEBAR_H + 60
 NAME_FS = 30
-# approx char width for the monospace name at NAME_FS
-NAME_W = int(len(NAME) * NAME_FS * 0.60)
+# approx char width for monospace-bold name at NAME_FS; buffer so the
+# reveal wipe never freezes mid-glyph and clips the last letters.
+NAME_W = int(len(NAME) * NAME_FS * 0.66) + 18
 
 ROLE_START_Y = NAME_Y + 46
 ROLE_STEP = 34

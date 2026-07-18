@@ -36,19 +36,23 @@ DOTS = ["#ff5f56", "#ffbd2e", "#27c93f"]
 #   ("gap",)
 ROWS = [
     ("host",),
+    ("kv", "Role", "AI Engineer Intern @ DotSyndicate"),
+    ("kv", "Location", "Mumbai, India"),
     ("kv", "Email", "rehbarkhan.2711@gmail.com"),
+    ("kv", "Website", "rehbarkhan.in"),
+    ("kv", "GitHub", "/arshhimself"),
     ("kv", "Twitter", "@rehbar2004"),
     ("kv", "LinkedIn", "/in/rehbar-khan"),
     ("gap",),
     ("sec", "Stack"),
+    ("kv", "GenAI", "LangChain, LangGraph, LangSmith, RAG, CrewAI, MCP"),
     ("kv", "Frontend", "React, Next.js, Tailwind CSS"),
-    ("kv", "Mobile", "Flutter, Dart"),
-    ("kv", "Backend", "Django, Node.js, FastAPI, Docker, Kubernetes"),
-    ("kv", "AI/ML", "LangChain, LangFlow, LangGraph, RAG"),
+    ("kv", "Mobile", "Flutter, React Native, Dart"),
+    ("kv", "Backend", "Django, FastAPI, Node.js, Docker, Kubernetes"),
     ("gap",),
     ("sec", "Focus"),
-    ("bul", "Scalable web, mobile, CRM & ERP systems"),
-    ("bul", "AI-driven workflows, agents & automation"),
+    ("bul", "Multi-agent systems, RAG pipelines & automation"),
+    ("bul", "Scalable full-stack, mobile & CRM/ERP systems"),
 ]
 
 ROW_STEP = 26
@@ -74,7 +78,7 @@ def measure_height():
     return y + PAD
 
 
-CANVAS_W = 520
+CANVAS_W = 600
 CANVAS_H = measure_height()
 
 
